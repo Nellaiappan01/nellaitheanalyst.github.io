@@ -1,4 +1,4 @@
-eTML5 UP
+eT5 UP
 html5up.net | @a
 Free for personal and commercial use unthe CCA 3.0 license (html5up.net/lice
 A dark, slick, modern, responsive, adjective-drenched design built around an extremely

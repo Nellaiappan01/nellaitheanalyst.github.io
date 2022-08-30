@@ -1,7 +1,7 @@
 5 
 html5up.net | @a
 Free for personal and commercial use unthe CCA 3.0 license (html5up.net/lice
-A dark, slick, ern, responsi, adjective-drenched design built around an extremely
+A dark, slick, ern, reonsi, adjective-drenched design built around an extremely
 dynamic landing page (scroll that mofo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and
 actually made it multipurpose (versus copping out and making it a one pager like I

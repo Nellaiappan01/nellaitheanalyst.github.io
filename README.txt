@@ -1,5 +1,5 @@
 
-html5u
+html
 Free for personal and commercial use unthe CCA 3.0 license (html5up.net/lice
 A dark, slick, ern, reonsi, jective-drenched design built around an extremely
 dynamic landing page (scroll that mofo!). Inspired by Big Picturanother design

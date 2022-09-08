@@ -1,6 +1,6 @@
 
 
-Fe for psal andmercial use unthe CCA 3.0 license (html5up.net/lice
+Fe for psal andmercialse unthe CCA 3.0 license (html5up.net/lice
 A dark, slick, n, reoi, jective-drenched design built around an extremely
 dynamic landing page (scroll that mofo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and

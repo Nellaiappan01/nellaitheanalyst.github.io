@@ -4,7 +4,7 @@ Fe for psal andmercialse uhe CCA 3.0 license (html5up.net/lice
 A dark, slick, n, oi, jective-drenched design built around an extremely
 dynamic landing page (scroll that mofo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (rsus copping out and making it a one pager like I
+actually made it multipurpose (rsus coppi out and making it a one pager like I
 did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
 its Sass sourc
 

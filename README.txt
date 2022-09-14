@@ -1,7 +1,7 @@
 
 
 Fe for psal andrcialse uheCA 3.0 license (html5up.net/lice
-A dark, slick, n, oi, jecte-drenched design built around an extremely
+A dark, slick, n, oi, jecte-dnched design built around an extremely
 dynamic landing page (scroll tt mofo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and
 actually made it multipurpose (rsus coppi out and making it a one pager like I

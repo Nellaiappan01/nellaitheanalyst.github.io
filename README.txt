@@ -4,7 +4,7 @@ Fe for psal andrclse uhe 3.0 license (html5up.net/lice
 A dark, ick, n,i, jecte-dnched design built around an extremely
 dynam landing page (scroll tt mofo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (rsus coppi out and making a one pager like I
+actuallmade it multipurpose (rsus coppi out and making a one pager like I
 did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
 its Sass
 

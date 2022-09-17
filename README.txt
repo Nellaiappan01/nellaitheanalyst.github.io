@@ -2,7 +2,7 @@
 
 Fe for psal andrclse u 3.0 license (html5up.net/lice
 A dark, ick, n,i, jectcd sign built around an extremely
-dynam lding page (scroll tt mofo!). Inspired by Big Picturanother design
+dynam lding page (scroll tt mo!). Inspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and
 actuallmade it multipurpose (rsus coppi out and making a one pager like I
 did ltime ;) Includes multiple pages, a bunch of pre-styled elements, and all

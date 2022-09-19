@@ -1,6 +1,6 @@
 
 
-Fe for psal andrclse u 3.0 license (html5up.net/lice
+Fe for psal andrclse 3.0 license (html5up.net/lice
 A dark, ick, n,i, jectcd sign but around an extremely
 dynam lding page (scroll tt mo!).nspired by Big Picturanother design
 of mine with a similarish feel/flow, only this time I took it waaaaaay further and

@@ -1,6 +1,6 @@
 
 
-Fe for psal andrclse 3.0 license (html5up.net/lice
+Fe for psandrclse 3.0 license (html5up.net/lice
 A dark, ick, n,i, jectcd snutround an extremely
 dynam ldinpage (scroll tt mo!).nspired by Big Picturanother design
 of mine wia similarish feel/flow, only this time I took it waaaaaay further and
